@@ -2,4 +2,4 @@
 
 i made this portfolio using Html and CSS
 
-live site : 
+live site :  https://daliaabdelraouf.github.io/Simple-portfolio/
